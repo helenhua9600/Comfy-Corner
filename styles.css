@@ -1,0 +1,33 @@
+html {
+	background: #F9F5F6;
+}
+.custom-nav {
+	background-color: #F9F5F6;
+}
+
+.middle {
+	height: 620px;
+	background: #F8E8EE;
+	display:flex;
+	flex-direction: column;
+}
+
+.middle h1 {
+	font-family: cursive;
+	font-size: 55px;
+	font-weight: bolder;
+	color: #841E43;
+
+	
+	align-items: center;
+	justify-content: center;
+}
+
+.middle h3 {
+
+}
+
+/* .middle buttons {
+	display: flex;
+	flex-direction: row;
+} */
