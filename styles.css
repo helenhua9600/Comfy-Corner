@@ -6,14 +6,16 @@ html {
 }
 
 .middle {
-	height: 620px;
-	background: #F8E8EE;
-	display:flex;
+	height:90vh;
+	background-image: url('cherry_blossom_bg.jpg');
+	background-repeat: no-repeat;
+	
+	background-size: cover;
 	/* flex-direction: column; */
 }
 
 .blank {
-	height: 300px;
+	height: 40vh;
 }
 .middle h1 {
 	font-family: cursive;
