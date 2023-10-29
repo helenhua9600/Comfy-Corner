@@ -9,26 +9,25 @@ html {
 	height: 620px;
 	background: #F8E8EE;
 	display:flex;
-	flex-direction: column;
+	/* flex-direction: column; */
 }
 
-
+.blank {
+	height: 300px;
+}
 .middle h1 {
 	font-family: cursive;
 	font-size: 55px;
 	font-weight: bolder;
 	color: #841E43;
 
-	
-	align-items: center;
-	justify-content: center;
 }
 
 /* .middle h3 {
 	hehehawhaw
 } */
 
-/* .middle buttons {
-	display: flex;
-	flex-direction: row;
-} */
+.middle button {
+	margin: 100px;
+	background-color: #FDCEDF;
+}
