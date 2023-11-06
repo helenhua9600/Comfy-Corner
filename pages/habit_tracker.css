@@ -1,0 +1,16 @@
+.table_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.table_header_title {
+    color: blue;
+    padding-left: 100px;
+    /* margin-right: 600px; */
+}
+
+.table_header_time {
+    margin-right: 100px;
+    
+}
